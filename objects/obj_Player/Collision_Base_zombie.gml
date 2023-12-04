@@ -1,0 +1,1 @@
+global.health_player = global.health_player - 100 ;
