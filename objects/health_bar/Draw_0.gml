@@ -1,0 +1,1 @@
+draw_healthbar(25, 600, 200, 650, global.health_player, c_red, c_red, c_lime, 0 ,true, true);
