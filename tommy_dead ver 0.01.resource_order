@@ -29,9 +29,11 @@
     {"name":"obj_wall","order":2,"path":"objects/obj_wall/obj_wall.yy",},
     {"name":"obj_enemyspawn","order":7,"path":"objects/obj_enemyspawn/obj_enemyspawn.yy",},
     {"name":"player_dead_sprite","order":6,"path":"sprites/player_dead_sprite/player_dead_sprite.yy",},
+    {"name":"corpse_player_sprite","order":7,"path":"sprites/corpse_player_sprite/corpse_player_sprite.yy",},
     {"name":"Base_zombie","order":6,"path":"objects/Base_zombie/Base_zombie.yy",},
     {"name":"obj_Player","order":3,"path":"objects/obj_Player/obj_Player.yy",},
     {"name":"Zombie_sprite","order":5,"path":"sprites/Zombie_sprite/Zombie_sprite.yy",},
+    {"name":"Tilemap","order":8,"path":"sprites/Tilemap/Tilemap.yy",},
     {"name":"spr_player_walk_side","order":1,"path":"sprites/spr_player_walk_side/spr_player_walk_side.yy",},
   ],
 }
